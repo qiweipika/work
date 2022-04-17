@@ -14,6 +14,7 @@
 - 进度
   2022.4.8
   1-8已完成
+- 下面是效果展示
     ![image](https://github.com/Schiz0mania/work/blob/master/%E5%8A%A8%E7%94%BB.gif)
 
 
